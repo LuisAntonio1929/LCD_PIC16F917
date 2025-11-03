@@ -3,7 +3,7 @@ Este proyecto muestra en un LCD y LEDs el valor de una variabe entera aleatorea 
 ## Circuito
 
 <div style="text-align: center;">
-    <img src="Circuito.png" alt="Descripción" width="300">
+    <img src="Circuito.png">
 </div>
 
 ## Demostración de funcionamiento
