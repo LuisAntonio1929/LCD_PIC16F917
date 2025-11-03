@@ -2,7 +2,9 @@
 Este proyecto muestra en un LCD y LEDs el valor de una variabe entera aleatorea de 0 a 3 cada vez que se preciona un botón.
 ## Circuito
 
-![Texto alternativo](Circuito.png)
+<div style="text-align: center;">
+    <img src="Circuito.png" alt="Descripción" width="300">
+</div>
 
 ## Demostración de funcionamiento
 
